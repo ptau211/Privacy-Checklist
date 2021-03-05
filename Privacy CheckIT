@@ -1,15 +1,1 @@
-# 1. To ensure the users understand the purpose of the data collection
-     - [ ] Information collected are for lawful purpose connected to business functions
-     - [ ] Information collected are necessary 
-# 2. To ensure the users are older than 16 years old, and provide their own personal information 
-     - [ ] When registering, users supply personal information including age
-     - [ ] Verify user identity when registering 
-# 3. To ensure that the users information are stored securely
-     - [ ] Implement generally accepted standards of technology and operational security
-     - [ ] Authorized personnel only access to user information
-# 4. To ensure users are able to access their personal information
-     - [ ] Users can request access to their personal information
-     - [ ] Verify user identity when requesting access to personal information.
-# 5. To ensure users' personal inormation are disposed off safely at the end of the business relationship
-     - Users are advised after their personal information have been disposed off.
-     - Users are able to request deletion of their personal data and confirmation thereafter
+
